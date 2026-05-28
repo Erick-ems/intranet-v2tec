@@ -1,10 +1,11 @@
-import logging
-
 from plone import api
 from plone.base.interfaces.installable import INonInstallable
 from Products.CMFCore.WorkflowTool import WorkflowTool
 from Products.GenericSetup.tool import SetupTool
 from zope.interface import implementer
+
+import logging
+
 
 logger = logging.getLogger(__name__)
 
