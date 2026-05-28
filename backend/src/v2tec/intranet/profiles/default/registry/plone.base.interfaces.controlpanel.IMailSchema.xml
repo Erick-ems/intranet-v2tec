@@ -4,7 +4,7 @@
            prefix="plone"
   >
     <value key="email_charset">utf-8</value>
-    <value key="email_from_name">Intranet V2Tec</value>
+    <value key="email_from_name">Intranet da V2Tec</value>
     <value key="smtp_host">localhost</value>
     <value key="smtp_port">25</value>
   </records>
